@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=score2
+comment1.params=person
+comment1.target=void\ setP(Person)
+comment2.params=person
+comment2.target=void\ setP(Person2)
+comment3.params=
+comment3.target=void\ run()
+numComments=4
